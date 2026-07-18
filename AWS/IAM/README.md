@@ -342,16 +342,16 @@ Organization creates and maintains this policy.
 
 Create IAM User.
 
-![Create IAM User](images/create_IAM_user_1.jpg)
-![Create IAM User](images/create_IAM_user_2.jpg)
-![Create IAM User](images/create_IAM_user_3.jpg)
-![Create IAM User](images/create_IAM_user_4.jpg)
-![Create IAM User](images/create_IAM_user_5.jpg)
-![Create IAM User](images/create_IAM_user_6.jpg)
-![Create IAM User](images/create_IAM_user_7.jpg)
+(images/create_IAM_user_1.jpg)
+(images/create_IAM_user_2.jpg)
+(images/create_IAM_user_3.jpg)
+(images/create_IAM_user_4.jpg)
+(images/create_IAM_user_5.jpg)
+(images/create_IAM_user_6.jpg)
+(images/create_IAM_user_7.jpg)
 
 In a real-world organization, the DevOps or Cloud Platform team creates the IAM user account. Once the account is created, they share the username, temporary password, 12-digit AWS Account ID, and AWS sign-in URL with the user. The user (Ajay) can then log in to the AWS Management Console to verify the access assigned to the account.
-![Create IAM User](images/create_IAM_user_8.jpg)
+(images/create_IAM_user_8.jpg)
 
 ---
 
