@@ -342,7 +342,7 @@ Organization creates and maintains this policy.
 
 Create IAM User.
 
-![Step1](images/create_IAM_user_1.jpg)
+![Step1](images/create_IAM_user_1.png)
 
 ![Step2](images/create_IAM_user_2.jpg)
 
