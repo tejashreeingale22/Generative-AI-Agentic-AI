@@ -20,6 +20,9 @@ Generative AI
 
 Each stage was introduced to overcome the limitations of the previous one.
 
+
+![Evolution of  AI](Gen-AI-Images/evolution_of_AI.jpg)
+
 ## 📌 Key Learnings
 
 ### Rules Engine
@@ -53,6 +56,8 @@ The rule no longer matches, so the spam email reaches the inbox.
 - Too many rules to maintain.
 - New spam patterns require new rules.
 - Easy to bypass.
+
+![Rules Engine](Gen-AI-Images/rules_engine.jpg)
 
 ---
 
@@ -88,6 +93,8 @@ Whenever new spam techniques appear:
 
 This takes time, engineers, infrastructure, and money.
 
+![Machine Learning](Gen-AI-Images/machine_learning.jpg)
+
 ---
 
 ### Deep Learning
@@ -111,6 +118,10 @@ Detects complex spam patterns much better than traditional Machine Learning.
 - Doesn't remember long conversations.
 - Usually trained for one specific task.
 - Cannot easily perform many different tasks using the same model.
+
+
+![Deep Learning](Gen-AI-Images/Deep_Learning.jpg)
+
 
 ---
 
@@ -208,12 +219,17 @@ Unlike a standalone LLM, Generative AI **remembers previous conversations** by s
 
 This makes the interaction continuous and context-aware.
 
+
+![Generative AI](Gen-AI-Images/Gen_AI.jpg)
+
 ---
 
 **Key Point**
 
 - **LLM = Knows language but has no memory (Stateless).**
 - **Generative AI = Uses LLM + Memory + Context + Databases + APIs to provide intelligent, context-aware conversations.**
+
+---
 
 ## 🧠 LLM vs Generative AI
 
