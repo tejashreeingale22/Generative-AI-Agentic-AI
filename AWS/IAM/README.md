@@ -375,11 +375,12 @@ https://aws.amazon.com/
 
 ![Step9](images/verify_access_1.jpg)
 
-![Step10](images/verify_access_2.jpg)
+![Step10](images/verify_access_2.png)
 
-![Step11](images/verify_access_3.jpg)
+![Step11](images/verify_access_3.png)
 
 ![Step12](images/verify_access_4.jpg)
+
 If you observe above, this user ajay is a dummy user. He don't have any access
 
 ---
