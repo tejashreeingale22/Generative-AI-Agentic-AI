@@ -364,15 +364,23 @@ In a real-world organization, the DevOps or Cloud Platform team creates the IAM 
 
 ## Step 2
 
-Login using:
+User will login to verify his access using below:
 
 - Account ID
 - Username
 - Password
 
-📸 **Screenshot 2**
+Note: Take private/incognito window or take a seperate browser. 
+https://aws.amazon.com/
 
-*(Paste your IAM login screenshot here.)*
+![Step9](images/verify_access_1.jpg)
+
+![Step10](images/verify_access_2.jpg)
+
+![Step11](images/verify_access_3.jpg)
+
+![Step12](images/verify_access_4.jpg)
+If you observe above, this user ajay is a dummy user. He don't have any access
 
 ---
 
