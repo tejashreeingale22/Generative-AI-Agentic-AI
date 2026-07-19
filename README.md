@@ -21,7 +21,7 @@ Generative AI
 Each stage was introduced to overcome the limitations of the previous one.
 
 
-![Evolution of  AI](Gen-AI-Images/evolution_of_AI.png)
+![Evolution of  AI](Gen-AI-Images/evolution_of_ai.png)
 
 ## 📌 Key Learnings
 
