@@ -394,10 +394,9 @@ Observe:
 ```
 Access Denied
 ```
+![Step13](images/search_lambda_1.jpg)
 
-📸 **Screenshot 3**
-
-*(Paste your Access Denied screenshot here.)*
+![Step14](images/search_lambda_2.jpg)
 
 ---
 
