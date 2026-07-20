@@ -397,6 +397,7 @@ Access Denied
 ![Step13](images/search_lambda_1.jpg)
 
 ![Step14](images/search_lambda_2.jpg)
+In simple, 'ajay' user is a dummy user where don't have any access 
 
 ---
 
@@ -407,9 +408,27 @@ Attach AWS Managed Policies:
 - AWSLambdaFullAccess
 - AmazonS3FullAccess
 
-📸 **Screenshot 4**
+Assigning AWS Managed Policy: lambda, S3 full access policies to the user
 
-*(Paste your policy attachment screenshot here.)*
+![Step15](images/assign_policy_1.jpg)
+
+![Step16](images/assign_policy_2.jpg)
+
+![Step17](images/assign_policy_3.jpg)
+
+![Step18](images/assign_policy_4.jpg)
+
+![Step19](images/assign_policy_5.jpg)
+
+![Step20](images/assign_policy_6.jpg)
+
+![Step21](images/assign_policy_7.jpg)
+
+![Step22](images/assign_policy_8.jpg)
+
+![Step23](images/assign_policy_9.jpg)
+
+![Step24](images/assign_policy_10.jpg)
 
 ---
 
@@ -423,9 +442,18 @@ Verify:
 
 ✅ S3 Access
 
-📸 **Screenshot 5**
+Final Verification:
 
-*(Paste your final verification screenshot here.)*
+![Step25](images/final_verification_1.jpg)
+
+![Step26](images/final_verification_2.jpg)
+
+Note: If you have buckets then it will display otherwise it won’t throw any error message
+
+![Step27](images/final_verification_3.jpg)
+
+![Step28](images/final_verification_4.jpg)
+
 
 ---
 
